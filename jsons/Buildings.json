@@ -21,7 +21,6 @@
 		"production": 3,
 		"hurryCostModifier": 25,
 		"uniques": ["Must not be on [River]", "[+10]% Food is carried over after population increases [in this city]"],
-		"requiredTech": "Agriculture"
 	},
 	{
 		"name": "Water Mill",
