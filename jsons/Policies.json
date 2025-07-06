@@ -9,6 +9,17 @@
             "Domination": 0,
             "Scientific": 0
         },
+    },
+    {
+        "name": "Civic Tree",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
         "policies": [
     {
         "name": "Monarchy",
