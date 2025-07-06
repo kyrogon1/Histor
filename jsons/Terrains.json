@@ -43,8 +43,7 @@
 	{
 		"name": "Plains",
 		"type": "Land",
-		"food": 1,
-		"production": 1,
+		"food": 2,
 		"movementCost": 1,
 		"RGB": [168,185,102],
 		"uniques": ["Occurs at temperature between [-0.4] and [-0.1] and humidity between [0] and [0.2]",
@@ -105,8 +104,6 @@
 	{
 		"name": "Lakes",
 		"type": "Water",
-		"food": 2,
-		"gold": 1,
 		"RGB": [ 123, 202, 226],
 		"uniques": ["Fresh water",
 					"Considered [Food] when determining start locations",
