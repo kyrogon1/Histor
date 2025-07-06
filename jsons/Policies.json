@@ -9,6 +9,8 @@
             "Domination": 0,
             "Scientific": 0
         },
+        "policies":[
+        ]
     },
     {
         "name": "Civic Tree",
