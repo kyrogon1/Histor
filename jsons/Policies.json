@@ -8,7 +8,8 @@
             "Diplomatic": 0,
             "Domination": 0,
             "Scientifc": 0,
-        },
+        }
+    },
     {
         "name": "Civic Tree",
         "era": "Ancient era",
