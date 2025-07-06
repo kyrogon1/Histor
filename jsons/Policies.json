@@ -13,13 +13,10 @@
 {
         "name": "Monar",
         "uniques": [
-            "[+3 Food, +2 Happiness] [in capital]]",
-            "[2] population [in capital]"
-"[+1 Culture] per [2] population [in capital]"
-"[+5]% growth [in all cities]"
+            "[+15]% Production when constructing [All] buildings [in all cities]",
         ],
                 "row": 1,
-                "column": 3
+                "column": 1
     },
         ]
     },
