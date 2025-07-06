@@ -9,7 +9,18 @@
             "Domination": 0,
             "Scientific": 0
         },
-        "policies":[
+        "policies": [
+{
+        "name": "Monar",
+        "uniques": [
+            "[+3 Food, +2 Happiness] [in capital]]",
+            "[2] population [in capital]"
+"[+1 Culture] per [2] population [in capital]"
+"[+5]% growth [in all cities]"
+        ],
+                "row": 1,
+                "column": 3
+    },
         ]
     },
     {
