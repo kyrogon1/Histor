@@ -11,9 +11,10 @@
         },
         "policies": [
 {
-        "name": "Monar",
+        "name": "Force labor",
         "uniques": [
             "[+15]% Production when constructing [All] buildings [in all cities]",
+            "[-1 Happiness] per [2] population [in all cities]"
         ],
                 "row": 1,
                 "column": 1
