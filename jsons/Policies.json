@@ -1,5 +1,15 @@
 [
     {
+        "name": "Domination",
+        "era": "Ancient era",
+        "priorites": {
+            "Neutral": 0,
+            "cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientifc": 0,
+        },
+    {
         "name": "Civic Tree",
         "era": "Ancient era",
         "priorities": {
