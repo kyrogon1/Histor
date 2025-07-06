@@ -5,7 +5,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
 		"food": 1,
 		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
+		"techRequired": "Mining",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
 			"[+1 Food] for each adjacent [Farm] <after discovering [Crop Rotation]>",
 			"[+1 Food] for each adjacent [Pasture] <after discovering [Crop Rotation]>",
