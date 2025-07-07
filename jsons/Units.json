@@ -131,7 +131,7 @@
 		"strength": 8,
 		"rangedStrength": 9,
 		"cost": 36,
-		"requiredTech": "Agriculture",
+		"requiredTech": "Hunting",
 		"obsoleteTech": "Construction",
 		"replaces": "Archer",
 		"uniqueTo": "The Maya",
