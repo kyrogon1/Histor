@@ -108,7 +108,6 @@
 		"uniques": ["Fresh water",
 					"Considered [Food] when determining start locations",
 					"Considered [Desirable] when determining start locations"
-		                        "[+2 Food] <after discovering [Fishing]>"
 		]
 	},
 	{
