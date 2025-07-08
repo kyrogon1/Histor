@@ -45,9 +45,9 @@
 				"row": 2,
 				"prerequisites": ["Hunting"],
 				"uniques": ["[+2 Food] from [Lakes] tiles [in all cities]",
-				            "[+4 Food] from [Coast] tiles [in all cities]"
+				            "[+4 Food] from [Coast] tiles [in all cities]",
 				            "[+3 Food] from [River] tiles [in all cities]"
-				]
+				],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 			{
