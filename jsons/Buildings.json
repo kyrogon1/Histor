@@ -138,7 +138,8 @@
 		"hurryCostModifier": 40,
 		"maintenance": 1,
 		"uniques": ["[-20]% Culture cost of natural border growth [in this city]",
-			    "Only available <after adopting [Domination]>" 
+			    "Only available <after adopting [Domination]>"
+			    "[+7]% [Happiness] [in this city] <when at war>"
 		]
 	},
 	{
