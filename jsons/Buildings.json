@@ -138,7 +138,7 @@
 		"hurryCostModifier": 40,
 		"maintenance": 1,
 		"uniques": ["[-20]% Culture cost of natural border growth [in this city]",
-			    "Unbuildable < adopting [Domination]>"
+			    "Unbuildable <adopting [Domination]>"
 		]
 	},
 	{
