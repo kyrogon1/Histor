@@ -129,7 +129,7 @@
 		"cityStrength": 3,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
-		"requiredTech": "Carpentry",
+		"uniques": ["Unavailable"]
 	},
 	{
 		"name": "Monument",
@@ -276,9 +276,9 @@
 		"maintenance": 2,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
-		"uniques": ["[+1 Production] from [Jungle] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]"],
+		"uniques": ["[+1 Production] from [Jungle] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]",
+		            "Unavailable"]
 		"hurryCostModifier": 25, 
-		"requiredTech": "Carpentry"
 	},
 	{
 		"name": "Potter",
