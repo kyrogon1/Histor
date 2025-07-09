@@ -375,9 +375,8 @@
 		"cannotBeBuiltWith": "Step Pyramid"
 		"cost": 40,
 		"maintenance": 1,
-		"requiredTech": "Mysticism",
 		"uniques": ["Hidden when religion is disabled", "Must be next to [Desert]",
-			    "<hidden from users>"
+			    "Unavailable"
 		]
 	},
 	{
@@ -429,9 +428,8 @@
 		"greatPersonPoints": {"Great Engineer": 1},
         "uniques": ["[+10]% [Food] [in all cities]",
             "[+15]% Production when constructing [Ranged] units [in this city]",
-	    "<hidden from users>"
+	    "Unavailable"
 	],
-		"requiredTech": "Archery",
 		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
 	},
 	// Column 2
