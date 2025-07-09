@@ -29,7 +29,7 @@
 		"uniques": ["[+35]% [Food] [in all coastal cities]<when not at war>", "[+1 Gold, +1 Production] from [Mine] tiles [in all cities]", "[+1 Food, +1 Production] from [Pasture] tiles [in all cities]"],
 		"cities": ["Canberra","Melbourne","Sydney","Brisbane","Adelaide","Perth","Newcastle","Wollongong","Hobart","Geelong","Townsville",
 			"Cairns","Toowomba","Darwin","Ballarat","Bendigo","Albury","Launceston","Mackay","Rockhampton","Bunbury","Broken Hill","Gold Coast"],
-        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
+        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "SeÃ±or X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
     },
 	{
 		"name": "Assyria",
@@ -53,7 +53,7 @@
 		"uniqueName": "Repopulation",
 		"uniques": ["[+35]% [Food] [in all non-occupied cities]<when at war>", "[3] population in a random city<upon conquering a city>", "[Siege] units gain the [Sapper] promotion"],
 		"cities": ["Assur","Nineveh", "Nimrud", "Carchemish"],
-        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
+        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "SeÃ±or X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
     },
 	{
 		"name": "Spain",
@@ -62,7 +62,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Blessed Isabella, servant of God, holy queen of Castille and León! Your people greet and welcome you. You are the ruler of Spain, a beautiful and ancient country at the crossroads of the world between Europe and Africa, one shore on the Mediterranean and the other on the mighty Atlantic Ocean. The Spanish are a multicultural people with roots in the Muslim and Christian worlds. A seafaring race, Spanish explorers found and conquered much of the New World, and, for many centuries, its gold and silver brought Spain unrivalled wealth and power, making the Spanish court the envy of the world.",
+		"startIntroPart1": "Blessed Isabella, servant of God, holy queen of Castille and LeÃ³n! Your people greet and welcome you. You are the ruler of Spain, a beautiful and ancient country at the crossroads of the world between Europe and Africa, one shore on the Mediterranean and the other on the mighty Atlantic Ocean. The Spanish are a multicultural people with roots in the Muslim and Christian worlds. A seafaring race, Spanish explorers found and conquered much of the New World, and, for many centuries, its gold and silver brought Spain unrivalled wealth and power, making the Spanish court the envy of the world.",
 		"startIntroPart2": "O fair and virtuous Isabella! Will you rebuild the Spanish empire and show the world again the greatness of your people? Will you take up the mantle of the holy monarchy, and vanquish your foes under heaven's watchful eyes? Your adoring subjects await your command! Will you build a civilization that stands the test of time?",
 		"declaringWar": "God will probably forgive you... but I shall not. Prepare for war.",
 		"attacked": "Repugnant spawn of the devil! You will pay!",
@@ -77,10 +77,10 @@
 		"uniqueName": "Conquest of the Americas",
 		"uniques": ["May buy [Water] units with [Faith] [in all cities]", "Receive triple Gold from Barbarian encampments and pillaging Cities", "[+2 Faith] from all [Science] buildings<on foreign continents>"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
-			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
-			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
-			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"],
-        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
+			"Vitoria","Santander","Oviedo","Jaen","LogroÃ±o","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
+			"Lugo","Alicante","CÃ diz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La CoruÃ±a","Guadalquivir","Bilbao",
+			"San Sebastian","Granada","MÃ©rida","Huelva","Ibiza","Las Palmas","Tenerife"],
+        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "SeÃ±or X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
     },
 	{
 		"name": "Babylon",
@@ -100,7 +100,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "It appears that you do have a reason for existing â€“ to make this deal with me.",
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
@@ -111,7 +111,7 @@
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
-        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaÅ¡", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
 	},
 	{
 		"name": "Greece",
@@ -176,7 +176,7 @@
 		"name": "Egypt",
 		"leaderName": "Ramesses II",
 		"adjective": ["Egyptian"],
-		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "We greet thee, oh great Ramesses, Pharaoh of Egypt, who causes the sun to rise and the Nile to flow, and who blesses his fortunate people with all the good things of life! Oh great lord, from time immemorial your people lived on the banks of the Nile river, where they brought writing to the world, and advanced mathematics, sculpture, and architecture. Thousands of years ago they created the great monuments which still stand tall and proud.",
@@ -249,13 +249,13 @@
 		"outerColor": [ 38, 98, 255],
 		"innerColor": [239,236,148],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Ancien Régime",
+		"uniqueName": "Ancien RÃ©gime",
 		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
 			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
-        "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
+        "spyNames": ["Jean-Paul", "Martine", "Lucien", "FranÃ§ois", "Augustine", "Monsieur X", "Dr. Dupont", "VipÃ¨re", "Yvette", "Renard"]
     },
 	{
 		"name": "Russia",
@@ -442,12 +442,12 @@
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[-25]% maintenance costs <for [Land] units>"],
-		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
+		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","DÃ¼sseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
-			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
-			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
-			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
-			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
+			"MÃ¼nster","Rostock","Chemnitz","Braunschweig","Halle","MÃ¶nchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","SaarbrÃ¼cken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"OsnabrÃ¼ck","Ludwigshafen","Leverkusen","Oldenburg","Neuss","MÃ¼lheim","Darmstadt","Herne","WÃ¼rzburg",
+			"Recklinghausen","GÃ¶ttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
 
@@ -473,8 +473,8 @@
 		"uniqueName": "Barbary Corsairs",
 		"uniques": ["[-66]% maintenance costs <for [Water] units>",
 			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"],
-		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
-			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
+		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","DiyarbakÄ±r","Izmir","Kayseri","Malatya",
+			"Mersin","Antalya","Zonguldak","Denizli","Ordu","MuÄŸla","EskiÅŸehir","Inebolu","Sinop","Adana","Artvin",
 			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
 			"Bitlis","Yalova"],
         "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
@@ -668,7 +668,7 @@
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
 			"Har-Ayrag","Nalayh","Tes"],
-        "spyNames": ["Asash�?ryū", "Tömöriin", "Zevegiin", "Jigjidiin", "Enkhbat", "Mönkhbayar", "Gündegmaa", "Ssima", "Batachikhan", "Chulunny"]
+        "spyNames": ["AsashÅ?ryÅ«", "TÃ¶mÃ¶riin", "Zevegiin", "Jigjidiin", "Enkhbat", "MÃ¶nkhbayar", "GÃ¼ndegmaa", "Ssima", "Batachikhan", "Chulunny"]
     },
 	{
 		"name": "Aztecs",
@@ -714,7 +714,7 @@
 
 		"declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
-		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercyâ€”see that you do so as well.",
 		"introduction": "How are you? You stand before Pachacuti Inca Yupanqui.",
 
 		"neutralHello": "How are you doing?",
@@ -770,7 +770,7 @@
 			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",
 			"Fredrikstad","Kolding","Horsens","Tromsoe","Vejle","Koge","Sandnes","Holstebro","Slagelse","Drammen",
 			"Hillerod","Sonderborg","Skien","Svendborg","Holbaek","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"],
-        "spyNames": ["Jørgen", "Mette", "Henrik", "Niels", "Helle", "Frederik", "Ida", "Thea", "Freja", "Morten"]
+        "spyNames": ["JÃ¸rgen", "Mette", "Henrik", "Niels", "Helle", "Frederik", "Ida", "Thea", "Freja", "Morten"]
     },
 	{
 		"name": "The Huns",
@@ -844,13 +844,13 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Nobel Prize",
 		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
-		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
-            "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
-            "Helsingborg","Härnösand","Vadstena","Lund","Västervik","Enköping","Skövde","Eskilstuna","Luleå","Lidköping",
-            "Södertälje","Mariestad","Östersund","Borås","Sundsvall","Vimmerby","Köping","Mora","Arboga","Växjö","Gränna",
-            "Kiruna","Borgholm","Strängnäs","Sveg"
+		"cities": ["Stockholm","Uppsala","Gothenburg","MalmÃ¶","LinkÃ¶ping","Kalmar","Skara","VÃ¤sterÃ¥s","JÃ¶nkÃ¶ping",
+            "Visby","Falun","NorrkÃ¶ping","GÃ¤vle","Halmstad","Karlskrona","Hudiksvall","Ã–rebro","UmeÃ¥","Karlstad",
+            "Helsingborg","HÃ¤rnÃ¶sand","Vadstena","Lund","VÃ¤stervik","EnkÃ¶ping","SkÃ¶vde","Eskilstuna","LuleÃ¥","LidkÃ¶ping",
+            "SÃ¶dertÃ¤lje","Mariestad","Ã–stersund","BorÃ¥s","Sundsvall","Vimmerby","KÃ¶ping","Mora","Arboga","VÃ¤xjÃ¶","GrÃ¤nna",
+            "Kiruna","Borgholm","StrÃ¤ngnÃ¤s","Sveg"
         ],
-        "spyNames": ["Leif", "Ingegard", "Sören", "Ragnhild", "Lars", "Lina", "Herr Grå", "Magnus", "Vilma", "Kusin"]
+        "spyNames": ["Leif", "Ingegard", "SÃ¶ren", "Ragnhild", "Lars", "Lina", "Herr GrÃ¥", "Magnus", "Vilma", "Kusin"]
     },
 	{
 		"name": "Austria",
@@ -875,8 +875,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Diplomatic Marriage",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
-		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
-			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
+		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "KitzbÃ¼hel",
+			"St. PÃ¶lten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
 			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"
 		],
@@ -957,14 +957,14 @@
 		"afterPeace": "Well played, fellow warrior.",
 
 		"neutralHello": "God has given good to you.",
-		"neutralLetsHearIt": ["We are all ears…","We are all ears…","Forward."],
+		"neutralLetsHearIt": ["We are all earsâ€¦","We are all earsâ€¦","Forward."],
 		"neutralNo": ["We must decline.","No.","We refuse."],
 		"neutralYes": ["Okay.","Sure, it shall be so.","Accepted."],
 
 		"hateHello": "Well?",
 		"hateLetsHearIt": ["Forward! Before I change my mind!","And?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
-		"hateYes": ["Eugh! Fine then…","Disgusting! Okay then…","But if I have to…"],
+		"hateYes": ["Eugh! Fine thenâ€¦","Disgusting! Okay thenâ€¦","But if I have toâ€¦"],
 
 		"outerColor": [12,75,25],
 		"innerColor": [157,172,255],
@@ -977,7 +977,7 @@
 			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
 			"St. Austell","Saint-Malo","Onchan","Dundee","Londonderry","Llanfairpwllgwyngyll","Falmouth","Lorient"]
 		// Llanfairpwllgwyngyll should actually be Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
-        "spyNames": ["Crìsdean", "Siobhán", "Seamus", "Ffion", "Pádraig", "Deirdre", "Mr. Quinn", "Éadaoin", "Alwyn", "Col Ceathar"]
+        "spyNames": ["CrÃ¬sdean", "SiobhÃ¡n", "Seamus", "Ffion", "PÃ¡draig", "Deirdre", "Mr. Quinn", "Ã‰adaoin", "Alwyn", "Col Ceathar"]
     },
 	{
 		"name": "Ethiopia",
@@ -1044,7 +1044,7 @@
 		"hateHello": "You.",
 		"hateLetsHearIt": ["Talk.","So?","Speak!"],
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
-		"hateYes": ["Oh… Fine, okay."],
+		"hateYes": ["Ohâ€¦ Fine, okay."],
 */
 		"outerColor": [198,141,99], // color picker: cf9f75
 		"innerColor": [24,63,66], // color picker: 1f4a4d
@@ -1057,7 +1057,7 @@
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
 			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
-        "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
+        "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "KukulkÃ¡n", "Xbalanque", "Zipacna"]
     },
 
 
@@ -1149,7 +1149,7 @@
 	},
 	{
 		"name": "Quebec City",
-		"adjective": ["Québécois"],
+		"adjective": ["QuÃ©bÃ©cois"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
