@@ -149,7 +149,7 @@
 		"type": "TerrainFeature",
 		"production": 1,
 		"movementCost": 2,
-		"overrideStats": true,
+		"overrideStats": false,
 		"defenceBonus": 0.25,
 		"RGB": [105,125,72],
 		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow"],
@@ -215,7 +215,6 @@
 	{
 		"name": "Marsh",
 		"type": "TerrainFeature",
-		"food": -1,
 		"movementCost": 3,
 		"unbuildable": true,
 		"defenceBonus": -0.15,
