@@ -20,7 +20,9 @@
 		"food": 2,
 		"production": 3,
 		"hurryCostModifier": 25,
-		"uniques": ["Must not be on [River]", "[+10]% Food is carried over after population increases [in this city]"],
+		"uniques": ["Must not be on [River]", "[+10]% Food is carried over after population increases [in this city]"
+		            "Unavailable"
+		],
 	},
 	{
 		"name": "Water Mill",
@@ -83,8 +85,7 @@
 		"culture": 2,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["[+20]% growth [in this city]"]
-		"requiredTech": "Trapping"
+		"uniques": ["[+20]% growth [in this city]","Unavailable"],
 	},
 	{
 		"name": "Granary",
@@ -287,7 +288,7 @@
 		"Gold": 2,
 		"culture": 1,
 		"hurryCostModifier": 25,
-		"requiredTech": "Pottery"
+		"uniques": ["Unavailable"],
 	},
 	{
 		"name": "Scribal Order",
@@ -437,8 +438,8 @@
 		"name": "Stonehenge",
 		"faith": 5,
 		"isWonder": true,
+	        "uniques": ["Unavailable"],
 		"greatPersonPoints": {"Great Engineer": 1},
-		"requiredTech": "Mysticism",
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},
 	{
@@ -500,8 +501,9 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["[-25]% tile improvement construction time","[2] free [Worker] units appear"],
-		"requiredTech": "Masonry",
+		"uniques": ["[-25]% tile improvement construction time",
+			"Unavailable"
+			"[2] free [Worker] units appear"],
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
 	},
 	{
@@ -510,8 +512,8 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Provides a sum of gold each time you spend a Great Person",
+			"Unavailable"
 			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]"],
-		"requiredTech": "Masonry",
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
 	{
