@@ -77,19 +77,19 @@
 			{
 				"name": "Sailing",
 				"row": 1,
-				"prerequisites": ["Pottery"],
+				"prerequisites": ["Animal Husbandry"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
 				"name": "Calendar",
 				"row": 2,
-				"prerequisites": ["Pottery","Mysticism"],
+				"prerequisites": ["Archery"],
 				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
 			},
 			{
 				"name": "Writing",
 				"row": 3,
-				"prerequisites": ["Mysticism"],
+				"prerequisites": ["Archery"],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
