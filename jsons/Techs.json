@@ -61,7 +61,7 @@
 			{
 				"name": "Masonry",
 				"row": 8,
-				"prerequisites": ["Huning"],
+				"prerequisites": ["Hunting"],
 				"quote": "'How happy are those whose walls already rise!' - Virgil"
 			},
 
