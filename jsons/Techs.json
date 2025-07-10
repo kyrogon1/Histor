@@ -44,7 +44,6 @@
 				"name": "Mysticism",
 				"row": 3,
 				"prerequisites": ["Hunting"],
-				"uniques": ["Enables conversion of city production to [Faith]"],
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 			},
 			{
@@ -62,7 +61,7 @@
 			{
 				"name": "Masonry",
 				"row": 8,
-				"prerequisites": ["Mining"],
+				"prerequisites": ["Huning"],
 				"quote": "'How happy are those whose walls already rise!' - Virgil"
 			},
 
