@@ -83,7 +83,7 @@
 			{
 				"name": "Calendar",
 				"row": 2,
-				"prerequisites": ["Mining"],
+				"prerequisites": ["Mysticism"],
 				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
 			},
 			{
