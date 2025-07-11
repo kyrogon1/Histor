@@ -122,8 +122,7 @@
 		"name": "Council",
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["Gifts of Gold to City-States generate [+10]% more Influence"],
-		"requiredTech": "Masonry"
+		"uniques": ["Gifts of Gold to City-States generate [+10]% more Influence","Unavailable"]
 	},
 	{
 		"name": "Palisades",
@@ -262,8 +261,8 @@
 		"name": "Ziggurat of Ur",
 		"culture": 2,
 		"isWonder": true,
-		"uniques": ["Empire enters golden age", "Gain a free [Pantheon] belief", "Must be on [Flood plains]"]
-		"requiredTech": "Writing"
+		"uniques": ["Empire enters golden age", "Gain a free [Pantheon] belief", "Must be on [Flood plains]",
+		            "Unavailable"]
 	},
 	{
 		"name": "Pont Du Gard",
@@ -295,8 +294,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 30,
 		"specialistSlots": {"Scientist": 2},
-		"uniques": ["[+1 Science] from every specialist [in this city]"],
-		"requiredTech": "Writing"
+		"uniques": ["[+1 Science] from every specialist [in this city]","Unavailable"]
 	},
 	{
 		"name": "Market",
