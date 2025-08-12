@@ -10,7 +10,7 @@
 		"science": -300,
 		"gold": -300,
 		"culture": -100,
-		"cityStrength": 2,
+		"cityStrength": -200,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"],
 	},
