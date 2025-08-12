@@ -6,6 +6,7 @@
 		"name": "Palace",
 		"isNationalWonder": true,
 		"production": -300,
+		"happiness": -200,
 		"science": -300,
 		"gold": -300,
 		"culture": -100,
