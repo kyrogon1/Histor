@@ -81,7 +81,7 @@
 		"cost": 20,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques": ["Can instantly construct a [Prefab Lair] improvement <for [4] movement>"],
+		"uniques": ["Can instantly construct a [Barbarian encampment] improvement <for [4] movement>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
