@@ -1481,10 +1481,10 @@
 		"name": "Barbarians",
 		"leaderName": "Kaluk",
 		"adjective": ["Barbarian"],
-		"startBias": ["Plains"],
 		"outerColor": [0,0,0],
 		"innerColor": [182,0,0],
 		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Barbarians",
 		"uniques": ["Founds a new city"]
 		"cities": ["Tulnard"]
 	}
