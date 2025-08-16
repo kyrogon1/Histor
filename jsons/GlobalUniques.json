@@ -12,7 +12,7 @@
     "Each city founded increases culture cost of policies [-100]% less than normal",
 "[-66]% Culture cost of adopting new Policies"
 "Nullifies [Production] [in all cities]<when below [-10] Happiness>",
-"Nullifies [Production] [in all cities]<when below [-10] Happiness>",
+"Nullifies [Science] [in all cities]<when below [-10] Happiness>",
 "Nullifies [Food] [in all cities]<when below [-10] Happiness>",
 "Nullifies [Gold] [in all cities]<when below [-10] Happiness>"
         // TODO: Implement the uniques below
