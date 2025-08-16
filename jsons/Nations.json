@@ -1485,7 +1485,9 @@
 		"innerColor": [182,0,0],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "Barbarians",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Faith],
+		
 		"cities": ["Tulnard"]
 	}
 
