@@ -309,7 +309,9 @@
 	{
 		"name": "Barbarian encampment",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable"],
+		"uniques": ["Unpillagable", "Unbuildable",
+		"Gives a defensive bonus of [50]%",
+		"Constructing it will take over the tiles around"]
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]
