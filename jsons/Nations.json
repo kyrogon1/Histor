@@ -1485,7 +1485,7 @@
 		"innerColor": [182,0,0],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "Barbarians",
-		"uniques": ["Founds a new city"]
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]"],
 		"cities": ["Tulnard"]
 	}
 
