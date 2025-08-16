@@ -1485,6 +1485,6 @@
 		"innerColor": [182,0,0],
 		"preferredVictoryType": "Domination",
 		"startIntroPart1": "Barbarians",
-		"uniques": ["[+1 Science]","Free Technology","Free Technology if it kills a unit"]
+		"uniques": ["[+1 Science]","Free Technology it kills a unit"]
 	}
 ]
