@@ -10,7 +10,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.4,
+		"barbarianBonus": 0.0,
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 1, // that is to say it'll take them 1.6 times as long to grow the city
@@ -39,7 +39,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.4,
+		"barbarianBonus": 0.0,
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.95, // that is to say it'll take them 1.6 times as long to grow the city
@@ -68,7 +68,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.4,
+		"barbarianBonus": 0.0,
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.9, // that is to say it'll take them 1.6 times as long to grow the city
@@ -97,7 +97,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.4,
+		"barbarianBonus": 0.0,
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.85, // that is to say it'll take them 1.6 times as long to grow the city
@@ -126,7 +126,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.4,
+		"barbarianBonus": 0.0,
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.8, // that is to say it'll take them 1.6 times as long to grow the city
@@ -155,7 +155,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.4,
+		"barbarianBonus": 0.0,
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.75, // that is to say it'll take them 1.6 times as long to grow the city
@@ -184,7 +184,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.4,
+		"barbarianBonus": 0.0,
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.7, // that is to say it'll take them 1.6 times as long to grow the city
@@ -213,7 +213,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.4,
+		"barbarianBonus": 0.0,
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.65, // that is to say it'll take them 1.6 times as long to grow the city
@@ -242,7 +242,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.4,
+		"barbarianBonus": 0.0,
 		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 0.6, // that is to say it'll take them 1.6 times as long to grow the city
