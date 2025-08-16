@@ -312,7 +312,7 @@
 		"uniques": ["Unpillagable", "Unbuildable",
 		"Gives a defensive bonus of [50]%",
 		"Adjacent enemy units ending their turn take [15] damage",
-		"Constructing it will take over the tiles around it"]
+		"Constructing it will take over the tiles around it and assign them to your closest city"]
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
 ]
