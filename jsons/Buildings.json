@@ -6,7 +6,7 @@
 		"name": "Palace",
 		"isNationalWonder": true,
 		"culture": 1,
-		"cityStrength": -200,
+		"cityStrength": 0,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"],
 	},
