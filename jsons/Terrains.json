@@ -23,7 +23,7 @@
         "RGB": [97,171,58],
         "uniques": ["Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
             "Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",
-			"[-1 Gold] from [Fresh water] tiles",
+			"[-1 Gold] when adjacent to [River] tiles",
             "Occurs at temperature between [-0.5] and [0.5] and humidity between [0.6] and [0.8]",
             "Occurs at temperature between [-0.5] and [1] and humidity between [0.9] and [1]",
             "Occurs at temperature between [0.9] and [1] and humidity between [0.2] and [1]",
