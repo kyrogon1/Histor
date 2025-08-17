@@ -99,9 +99,11 @@
 	},
 	{
 		"name": "gg",
+		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
 		"turnsToBuild": 6,
 		"food": 1,
-		"techRequired: "Calendar",
+		"techRequired": "Calendar",
+		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]"]
 	},
 	{
 		"name": "Quarry",
