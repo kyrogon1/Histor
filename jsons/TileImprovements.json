@@ -98,6 +98,12 @@
 		"shortcutKey": "P"
 	},
 	{
+		"name": "gg",
+		"turnsToBuild": 6,
+		"food": 1,
+		"techRequired: "Calendar",
+	},
+	{
 		"name": "Quarry",
 		"turnsToBuild": 8,
 		"techRequired": "Mining",
