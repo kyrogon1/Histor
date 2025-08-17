@@ -459,7 +459,7 @@
 		"requiredNearbyImprovedResources": ["Elephants","Horses"],
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Trapping"
+		"uniques": ["Unavailable"]
 	},
 	{
 		"name": "Floating Gardens",
