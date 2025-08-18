@@ -22,7 +22,7 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Pottery",
+				"name": "Fishing",
 				"row": 3,
 				"prerequisites": ["Hunting"],
 				"uniques": ["[+2 Food] from [Lakes] tiles [in all cities]",
