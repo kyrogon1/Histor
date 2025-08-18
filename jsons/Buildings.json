@@ -64,7 +64,6 @@
 		"faith": 2,
 		"happiness": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Mysticism"
 	},
 	{
 		"name": "Mud Pyramid Mosque",
@@ -75,7 +74,6 @@
 		"uniques": ["Gain a free [Pantheon] belief"],
 		"culture": 2,
 		"faith": 2,
-		"requiredTech": "Mysticism"
 	},
 	{
 		"name": "Idol",
@@ -92,7 +90,6 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Gold, +2 Food] from [Bonus resource] tiles [in this city]"],
-		"requiredTech": "Pottery"
 	},
 	{
 		"name": "Herbalist",
