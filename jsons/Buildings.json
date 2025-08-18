@@ -84,6 +84,7 @@
 		"faith": 1,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
+		"requiredTech": "Code of Laws"
 	},
 	{
 		"name": "Granary",
