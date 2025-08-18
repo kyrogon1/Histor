@@ -78,8 +78,8 @@
 		"requiredTech": "Mysticism"
 	},
 	{
-		"name": "Lodge",
-		"culture": 2,
+		"name": "Idol",
+		"culture": 1,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
 		"uniques": ["[+20]% growth [in this city]","Unavailable"],
