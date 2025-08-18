@@ -158,7 +158,6 @@
 		"unitType": "Civilian Water",
 		"movement": 4,
 		"cost": 30,
-		"requiredTech": "Fishing",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Uncapturable"]
 	},
 	{
