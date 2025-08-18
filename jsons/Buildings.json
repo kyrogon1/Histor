@@ -79,10 +79,11 @@
 	},
 	{
 		"name": "Idol",
+		"cost": 40,
 		"culture": 1,
+		"faith": 1,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["[+20]% growth [in this city]","Unavailable"],
 	},
 	{
 		"name": "Granary",
