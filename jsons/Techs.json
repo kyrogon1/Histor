@@ -108,13 +108,13 @@
 			{
 				"name": "Code of Laws",
 				"row": 2,
-				"prerequisites": ["Calendar","Writing"],
+				"prerequisites": ["Calendar"],
 				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
 			},
 			{
 				"name": "Trade",
 				"row": 4,
-				"prerequisites": ["The Wheel","Writing"],
+				"prerequisites": ["Calendar"],
 				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
 			},
 			{
