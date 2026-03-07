@@ -13,7 +13,7 @@
 	{
 		"name": "Settler",
 		"unitType": "Civilian",
-		"movement": 2,
+		"movement": 1,
 		"cost": 106,
 		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
