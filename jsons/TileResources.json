@@ -3,6 +3,7 @@
 	{
 		"name": "Cattle",
 		"resourceType": "Bonus",
+		"revealedBy": "Animal Husbandry",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Pasture",
@@ -13,6 +14,7 @@
 	{
 		"name": "Sheep",
 		"resourceType": "Bonus",
+		"revealedBy": "Animal Husbandry",
 		"terrainsCanBeFoundOn": ["Hill"],
 		"food": 1,
 		"improvement": "Pasture",
