@@ -51,9 +51,10 @@
 		"faith": 2,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Mysticism",
 		"specialistSlots": {"Priest": 1},
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "Gain a free [Pantheon] belief"]
+		"uniques": ["Hidden when religion is disabled", 
+			"Destroyed when the city is captured", 
+			"Gain a free [Pantheon] belief","Unavailable" ]
 	},
 	{
 		"name": "Burial Tomb",
@@ -382,8 +383,8 @@
 		"cannotBeBuiltWith": "Pyramid"
 		"cost": 40,
 		"maintenance": 1,
-		"requiredTech": "Mysticism",
-		"uniques": ["Hidden when religion is disabled", "Must be next to [Jungle]"]
+		"uniques": ["Hidden when religion is disabled", 
+			"Must be next to [Jungle]","Unavailable"]
 	},
 	{
 		"name": "Monastery",
