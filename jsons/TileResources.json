@@ -64,6 +64,7 @@
 	{
 		"name": "Stone",
 		"resourceType": "Bonus",
+		"revealedBy": "Mining",
 		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
 		"production": 1,
 		"improvement": "Quarry",
