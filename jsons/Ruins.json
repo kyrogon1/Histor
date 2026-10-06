@@ -2,13 +2,13 @@
     {
         "name": "discover cultural artifacts",
         "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
-        "uniques": ["Gain [20] [Culture]"],
+        "uniques": ["Gain [20] [Culture]","Gain [10] [Gold] <for [Spain]>"],
         "color": "#cf8ff7"
     },
     {
         "name": "squatters willing to work for you",
         "notification": "A [Worker] has joined us!",
-        "uniques": ["Free [Worker] found in the ruins"],
+        "uniques": ["Free [Worker] found in the ruins","Gain [10] [Gold] <for [Spain]>"],
         "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"]
     },
     {
@@ -31,7 +31,7 @@
     {
         "name": "a stash of gold",
         "notification": "We have found a stash of [goldAmount] Gold in the ruins!",
-        "uniques": ["Gain [50]-[100] [Gold]"],
+        "uniques": ["Gain [50]-[100] [Gold]","Gain [10] [Gold] <for [Spain]>"],
         "color": "#ffeb7f"
     },
     {
