@@ -93,14 +93,6 @@
 		"uniques": ["[+1 Gold, +2 Food] from [Bonus resource] tiles [in this city]"],
 	},
 	{
-		"name": "Herbalist",
-		"Science": 2,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["[+1 Food] per [3] population [in all cities]"]
-		"requiredTech": "Calendar"
-	},
-	{
 		"name": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
