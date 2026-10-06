@@ -7,31 +7,6 @@
 	},
 		//nations
 	{
-		"name": "Australia",
-		"leaderName": "John Curtin",
-		"adjective": ["Australian"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Scientific",
-
-		"startIntroPart1": "Australia.",
-		"startIntroPart2": "O Wise John Curtin! Will you rebuild the Australian empire and show the world again the greatness of your people? Will you take up the mantle of the Commonwealth, and vanquish your foes under The Queen's watchful eyes? Your adoring subjects await your command! Will you build a civilization that stands the test of time?",
-		"declaringWar": "God will probably forgive you... but I shall not. Prepare for war.",
-		"attacked": "You will pay!",
-		"defeated": "If my defeat is, without any doubt, the will of God, then I will accept it.",
-		"introduction": "God blesses those who deserve it. I am Isabel of Spain.",
-		"neutralHello": "Greetings.",
-		"hateHello": "Well?",
-		"tradeRequest": "I hope you will accept this deal.",
-		"outerColor": [36,133,41],
-		"innerColor": [227,227,11],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Land Down Under",
-		"uniques": ["[+35]% [Food] [in all coastal cities]<when not at war>", "[+1 Gold, +1 Production] from [Mine] tiles [in all cities]", "[+1 Food, +1 Production] from [Pasture] tiles [in all cities]"],
-		"cities": ["Canberra","Melbourne","Sydney","Brisbane","Adelaide","Perth","Newcastle","Wollongong","Hobart","Geelong","Townsville",
-			"Cairns","Toowomba","Darwin","Ballarat","Bendigo","Albury","Launceston","Mackay","Rockhampton","Bunbury","Broken Hill","Gold Coast"],
-        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "SeÃ±or X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
-    },
-	{
 		"name": "Assyria",
 		"leaderName": "Ashurburnipal",
 		"adjective": ["Assyrian"],
