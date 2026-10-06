@@ -50,7 +50,7 @@
 		"innerColor": [255,102,102],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Conquest of the Americas",
-		"uniques": [ "[+60 Gold] for discovering a City-State","[+60 Gold] from Ancient ruins"]
+		"uniques": [ "[+60 Gold] for discovering a City-State","[+60 Gold] from [Ancient ruins]","When conquering an Ancient ruins, earn [25] Gold"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","LogroÃ±o","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","CÃ diz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La CoruÃ±a","Guadalquivir","Bilbao",
