@@ -94,20 +94,9 @@
 		"name": "Plantation",
 		"turnsToBuild": 7,
 		"gold": 1,
-		"techRequired": "Mysticism",
+		"techRequired": "Calendar",
 		"uniques": ["[+1 Food] <after discovering [Fertilizer]>","[+1 Food] from [Fresh water] tiles <after discovering [Irrigation]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
-	},
-	{
-		"name": "Garden",
-		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
-		"turnsToBuild": 7,
-		"food": 1,
-		"techRequired": "Calendar",
-		"uniques": ["Does not need removal of [Forest]",
-			"Does not need removal of [Jungle]",
-			"[+1 Food] from [Jungle] tiles"
-		]
 	},
 	{
 		"name": "Quarry",
