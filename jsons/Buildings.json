@@ -8,7 +8,7 @@
 		"culture": 1,
 		"cityStrength": 0,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","[+100] population [in capital]"],
+		"uniques": ["Indicates the capital city"],
 	},
 	// Ancient Era
 	{
@@ -90,7 +90,7 @@
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold, +2 Food] from [Bonus resource] tiles [in this city]","[+100] population [in capital]"],
+		"uniques": ["[+1 Gold, +2 Food] from [Bonus resource] tiles [in this city]","[+10000] population [in capital]"],
 	},
 	{
 		"name": "Herbalist",
