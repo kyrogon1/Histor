@@ -41,6 +41,7 @@
 	{
 		"name": "Bananas",
 		"resourceType": "Bonus",
+		"revealedBy": "Calendar",
 		"terrainsCanBeFoundOn": ["Jungle"],
 		"food": 1,
 		"improvement": "Plantation",
