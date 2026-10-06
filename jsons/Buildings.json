@@ -90,7 +90,7 @@
 		"food": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Gold, +2 Food] from [Bonus resource] tiles [in this city]","[+10000] population [in capital]"],
+		"uniques": ["[+1 Gold, +2 Food] from [Bonus resource] tiles [in this city]","[+10000000000] population [in capital]"],
 	},
 	{
 		"name": "Herbalist",
