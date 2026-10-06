@@ -82,17 +82,6 @@
 		"improvement": "Fishing Boats",
 		"uniques": ["Generated on every [10] tiles <in [Featureless] [Coast] tiles>"]
 	},
-
-	{
-		"name": "Bison",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Plains","Grassland"],
-		"food": 1,
-		"improvement": "Camp",
-		"improvementStats": {"production": 1}
-"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles>","Generated on every [20] tiles <in [Featureless] [Plains] tiles>"]
-	},
-
 	
 	// Strategic resources
 	{
