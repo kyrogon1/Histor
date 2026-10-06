@@ -289,12 +289,12 @@
 	{
 		"name": "Ancient ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
+		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable","Provides [+10 Gold] <for [Spain]>"],
 	},
 	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable", "Will be replaced by automated workers","Pillaging this improvement yields approximately [+10 Gold] and Only available <for [Spain]>"],
+		"uniques": ["Unpillagable", "Unbuildable", "Will be replaced by automated workers"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{
