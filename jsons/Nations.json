@@ -50,7 +50,7 @@
 		"innerColor": [255,102,102],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Conquest of the Americas",
-		"uniques": ["May buy [Water] units with [Faith] [in all cities]", "Receive triple Gold from Barbarian encampments and pillaging Cities", "[+2 Faith] from all [Science] buildings<on foreign continents>","[+2 Science]"],
+		"uniques": [ "[+100 Gold] for discovering a Natural Wonder"]
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","LogroÃ±o","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","CÃ diz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La CoruÃ±a","Guadalquivir","Bilbao",
