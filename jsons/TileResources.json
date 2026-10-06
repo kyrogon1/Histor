@@ -410,6 +410,7 @@
 	{
 		"name": "Marble",
 		"resourceType": "Luxury",
+		"revealedBy": "Mining",
 		"terrainsCanBeFoundOn": ["Desert","Plains","Hill","Grassland"],
 		"gold": 2,
 		"improvement": "Quarry",
